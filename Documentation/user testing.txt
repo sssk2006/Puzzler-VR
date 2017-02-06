@@ -1,0 +1,22 @@
+
+user testing ----------
+person_01
+
+How big do you feel?
+1. Normal
+2. Slightly smaller than normal
+3. Normal size
+
+person-02
+What is the mood of the place you are in?
+1.Cold
+2. Depressing
+3. Cold
+
+person-03
+How comfortable is it to see the things around you?
+1. easy to see, but a little off focus
+2. Fine
+3. OK
+
+-------------------------------------------------------------------------------
